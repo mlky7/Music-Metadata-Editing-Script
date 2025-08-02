@@ -1,5 +1,4 @@
 # Quick Metadata Music Editor
-
 A lightweight Jupyter notebook that extracts artist and title information from MP3 filenames, writes ID3 tags automatically, and optionally renames the files.
 
 ## Usage
@@ -14,5 +13,4 @@ A lightweight Jupyter notebook that extracts artist and title information from M
 
 ## Filename Requirements
 
-This notebook assumes your MP3 filenames follow a format like: Artist Name - Track Title (other info).mp3
-Adjust the parsing logic in **Cell 2** if your naming convention differs.
+This notebook assumes your MP3 filenames follow a format like: Artist Name - Track Title (other info).mp3. Adjust the parsing logic in **Cell 2** if your naming convention differs.
